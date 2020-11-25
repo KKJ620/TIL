@@ -1,3 +1,5 @@
+npm run script build
+
 yarn build
 
 ---
